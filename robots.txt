@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yazan01.sa/sitemap.xml
